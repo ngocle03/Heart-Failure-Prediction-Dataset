@@ -1,6 +1,4 @@
-# Heart-Failure-Prediction-Dataset
-
-### Understanding Heart Disease Risk Factors through Health and Demographic Analysis
+# Understanding Heart Disease Risk Factors through Health and Demographic Analysis
 
 ---
 
