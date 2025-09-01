@@ -2,7 +2,7 @@
 
 ---
 
-#### 1. Goals of the Project
+## 1. Goals of the Project
 **Purpose:**  
 To analyze medical and demographic data of patients to identify key factors associated with heart disease. The project focuses on comparing risk across different patient groups and highlighting the most significant contributors.
 
@@ -13,7 +13,7 @@ To analyze medical and demographic data of patients to identify key factors asso
 
 ---
 
-#### 2. Data Sources Used
+## 2. Data Sources Used
 The data for this analysis was sourced from a public dataset on Kaggle:  
 
 - **Dataset Name:** Heart Failure Prediction Dataset  
@@ -21,7 +21,7 @@ The data for this analysis was sourced from a public dataset on Kaggle:
 
 ---
 
-#### 3. Data Overview
+## 3. Data Overview
 The dataset contains anonymized medical and demographic details of patients. It is structured as a single table with the following columns:  
 
 - **Age:** Age of the patient  
@@ -39,7 +39,7 @@ The dataset contains anonymized medical and demographic details of patients. It 
 
 ---
 
-#### 4. Tools and Technologies Applied
+## 4. Tools and Technologies Applied
 The analysis was performed using **Python** and the following libraries:  
 - **Pandas** → Data manipulation and analysis  
 - **Matplotlib.pyplot** → Visualization and charts  
@@ -47,7 +47,7 @@ The analysis was performed using **Python** and the following libraries:
 
 ---
 
-#### 5. Key Insights Discovered
+## 5. Key Insights Discovered
 The analysis revealed several key findings:  
 
 - **Age:** Prevalence of heart disease increases with age, rising from ~34% in the 30–39 age group to over 70% in those aged 60+.  
@@ -61,7 +61,7 @@ The analysis revealed several key findings:
 
 ---
 
-#### 6. Hypotheses Based on the Insights
+## 6. Hypotheses Based on the Insights
 From the insights, three hypotheses were formed:  
 
 1. Heart disease risk increases significantly with age, especially after **50 years old**.  
@@ -70,7 +70,7 @@ From the insights, three hypotheses were formed:
 
 ---
 
-#### 7. Recommendations Based on Analysis Results
+## 7. Recommendations Based on Analysis Results
 The results suggest the following preventive healthcare strategies:  
 
 - **Target High-Risk Groups:** Focus prevention on **males** and individuals **over 50**.  
