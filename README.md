@@ -71,9 +71,23 @@ From the insights, three hypotheses were formed:
 ---
 
 ## 7. Recommendations Based on Analysis Results
-The results suggest the following preventive healthcare strategies:  
 
-- **Target High-Risk Groups:** Focus prevention on **males** and individuals **over 50**.  
-- **Prioritize Strong Predictors:** Emphasize **MaxHR** and **Oldpeak** in screening over weaker indicators (e.g., cholesterol).  
-- **Raise Awareness of Atypical Symptoms:** Educate that heart disease can occur without classic chest pain, given the high prevalence in **asymptomatic (ASY)** cases.  
-- **Address Exercise-Induced Angina Promptly:** Given its ~85% prevalence among heart disease patients, this should trigger immediate preventive action.  
+The findings point toward both **clinical screening** and **preventive healthcare strategies** to address heart disease risk.
+
+### 7.1 Target High-Risk Groups
+- Focus preventive and diagnostic efforts on **males** and **individuals over 50**, as they consistently show the highest prevalence rates.
+
+### 7.2 Prioritize Strong Predictors in Screening
+- Emphasize **MaxHR** and **Oldpeak** during risk evaluation, as they are stronger predictors than traditional measures like cholesterol or resting blood pressure.  
+- Treat **exercise-induced angina** as a red flag — with ~85% prevalence among patients with heart disease, it should trigger early clinical screening.
+
+### 7.3 Maintain Core Diagnostic Practices
+- Continue routine tests such as **blood pressure, cholesterol, and exercise tolerance** to ensure comprehensive evaluation.  
+- Prioritize screening for patients with **abnormal or asymptomatic chest pain**, since traditional symptom-based detection may miss these cases.
+
+### 7.4 Preventive Healthcare Strategies
+- **Lifestyle Modifications:** Encourage dietary improvements, regular exercise, and smoking cessation, particularly for **older males**, **hypertensive patients**, and those with **high cholesterol**.  
+- **Tailored Exercise Programs:** Provide supervised programs for patients with borderline angina to strengthen cardiovascular function safely.  
+- **Awareness Campaigns:** Educate both the public and healthcare providers that heart disease often occurs **without classic chest pain**, reducing the risk of under-diagnosis.
+
+> **Summary:** By targeting high-risk populations, emphasizing stronger predictors in screening, and reinforcing lifestyle-based prevention, healthcare providers can reduce both the prevalence and late detection of heart disease.
