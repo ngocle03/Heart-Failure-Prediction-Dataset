@@ -2,7 +2,7 @@
 
 ---
 
-## 1. 🎯 Goals of the Project
+## 🎯 Goals of the Project
 **Purpose:**  
 To analyze medical and demographic data of patients to identify key factors associated with heart disease. The project focuses on comparing risk across different patient groups and highlighting the most significant contributors.
 
@@ -13,7 +13,7 @@ To analyze medical and demographic data of patients to identify key factors asso
 
 ---
 
-## 2. 📂 Data Sources Used
+## 📂 Data Sources Used
 The data for this analysis was sourced from a public dataset on Kaggle:  
 
 - **Dataset Name:** Heart Failure Prediction Dataset  
@@ -21,7 +21,7 @@ The data for this analysis was sourced from a public dataset on Kaggle:
 
 ---
 
-## 3. 🗂️ Data Overview
+## 🗂️ Data Overview
 The dataset contains anonymized medical and demographic details of patients. It is structured as a single table with the following columns:  
 
 - 👵 **Age** – Age of the patient  
@@ -39,7 +39,7 @@ The dataset contains anonymized medical and demographic details of patients. It 
 
 ---
 
-## 4. 🛠️ Tools and Technologies Applied
+## 🛠️ Tools and Technologies Applied
 The analysis was performed using **Python** and the following libraries:  
 - 🐼 **Pandas** → Data manipulation and analysis  
 - 📊 **Matplotlib.pyplot** → Visualization and charts  
@@ -47,7 +47,7 @@ The analysis was performed using **Python** and the following libraries:
 
 ---
 
-## 5. 🔑 Key Insights Discovered
+## 🔑 Key Insights Discovered
 The analysis revealed several key findings:  
 
 - 👵 **Age:** Heart disease prevalence increases with age, rising from ~34% in the 30–39 age group to over 70% in those aged 60+.  
@@ -61,7 +61,7 @@ The analysis revealed several key findings:
 
 ---
 
-## 6. 🧪 Hypotheses Based on the Insights
+## 🧪 Hypotheses Based on the Insights
 From the insights, three hypotheses were formed:  
 
 1. ⚡ Heart disease risk increases significantly with age, especially after **50 years old**.  
@@ -70,22 +70,22 @@ From the insights, three hypotheses were formed:
 
 ---
 
-## 7. 🩺 Recommendations Based on Analysis Results
+## 🩺 Recommendations Based on Analysis Results
 
 The findings point toward both **clinical screening** 🩺 and **preventive healthcare strategies** 🛡️ to address heart disease risk.
 
-### 7.1 ⚠️ Target High-Risk Groups
+### ⚠️ Target High-Risk Groups
 - Focus preventive and diagnostic efforts on **males** and **individuals over 50**, as they consistently show the highest prevalence rates.
 
-### 7.2 🔍 Prioritize Strong Predictors in Screening
+### 🔍 Prioritize Strong Predictors in Screening
 - Emphasize **MaxHR** and **Oldpeak** during risk evaluation, as they are stronger predictors than traditional measures like cholesterol or resting blood pressure.  
 - Treat **exercise-induced angina** as a red flag 🚨 — with ~85% prevalence among patients with heart disease, it should trigger early clinical screening.
 
-### 7.3 🩺 Maintain Core Diagnostic Practices
+### 🩺 Maintain Core Diagnostic Practices
 - Continue routine tests such as **blood pressure, cholesterol, and exercise tolerance** to ensure comprehensive evaluation.  
 - Prioritize screening for patients with **abnormal or asymptomatic chest pain**, since traditional symptom-based detection may miss these cases.
 
-### 7.4 ✅ Preventive Healthcare Strategies
+### ✅ Preventive Healthcare Strategies
 - **Lifestyle Modifications:** Encourage dietary improvements 🥗, regular exercise 🏃, and smoking cessation 🚭, particularly for **older males**, **hypertensive patients**, and those with **high cholesterol**.  
 - **Tailored Exercise Programs:** Provide supervised programs for patients with borderline angina to strengthen cardiovascular function safely.  
 - **Awareness Campaigns:** Educate both the public 📢 and healthcare providers that heart disease often occurs **without classic chest pain**, reducing the risk of under-diagnosis.
