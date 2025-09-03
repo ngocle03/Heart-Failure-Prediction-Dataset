@@ -45,26 +45,6 @@ The analysis was performed using **Python** and the following libraries:
 - 📊 **Matplotlib.pyplot** → Visualization and charts  
 - 🌈 **Seaborn** → Statistical plots and heatmaps  
 
-
----
-
-## 🔄 ETL Pipeline  
-
-### 1️⃣ Extract  
-Downloaded the dataset directly from Kaggle using `kagglehub`:  
-
-```python
-import kagglehub
-import os
-import pandas as pd
-
-# Download dataset
-path = kagglehub.dataset_download("fedesoriano/heart-failure-prediction")
-csv_path = os.path.join(path, "heart.csv")
-df = pd.read_csv(csv_path)
-df.head()
-```
-
 ---
 
 ## 🔑 Key Insights Discovered
@@ -102,12 +82,12 @@ The findings point toward both **clinical screening** 🩺 and **preventive heal
 - Treat **exercise-induced angina** as a red flag 🚨 — with ~85% prevalence among patients with heart disease, it should trigger early clinical screening.
 
 ### 🩺 Maintain Core Diagnostic Practices
-- Continue routine tests such as **blood pressure, cholesterol, and exercise tolerance** to ensure comprehensive evaluation.  
+- Continue routine tests such as **blood pressure, cholesterol and exercise tolerance** to ensure comprehensive evaluation.  
 - Prioritize screening for patients with **abnormal or asymptomatic chest pain**, since traditional symptom-based detection may miss these cases.
 
 ### ✅ Preventive Healthcare Strategies
-- **Lifestyle Modifications:** Encourage dietary improvements 🥗, regular exercise 🏃, and smoking cessation 🚭, particularly for **older males**, **hypertensive patients**, and those with **high cholesterol**.  
+- **Lifestyle Modifications:** Encourage dietary improvements 🥗, regular exercise 🏃 and smoking cessation 🚭, particularly for **older males**, **hypertensive patients** and those with **high cholesterol**.  
 - **Tailored Exercise Programs:** Provide supervised programs for patients with borderline angina to strengthen cardiovascular function safely.  
 - **Awareness Campaigns:** Educate both the public 📢 and healthcare providers that heart disease often occurs **without classic chest pain**, reducing the risk of under-diagnosis.
 
-> **Summary:** By targeting high-risk populations ⚡, emphasizing stronger predictors in screening 🔎, and reinforcing lifestyle-based prevention ✅, healthcare providers can reduce both the prevalence and late detection of heart disease.
+> **Summary:** By targeting high-risk populations, emphasizing stronger predictors in screening and reinforcing lifestyle-based prevention, healthcare providers can reduce both the prevalence and late detection of heart disease.
