@@ -43,7 +43,7 @@ The dataset contains anonymized medical and demographic details of patients. It 
 The analysis was performed using **Python** and the following libraries:  
 - 🐼 **Pandas** → Data manipulation and analysis  
 - 📊 **Matplotlib.pyplot** → Visualization and charts  
-- 🌈 **Seaborn** → Statistical plots and heatmaps  
+- 🌈 **Seaborn** → Statistical plots and heatmaps
 
 ---
 
