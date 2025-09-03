@@ -45,6 +45,26 @@ The analysis was performed using **Python** and the following libraries:
 - 📊 **Matplotlib.pyplot** → Visualization and charts  
 - 🌈 **Seaborn** → Statistical plots and heatmaps  
 
+
+---
+
+## 🔄 ETL Pipeline  
+
+### 1️⃣ Extract  
+Downloaded the dataset directly from Kaggle using `kagglehub`:  
+
+```python
+import kagglehub
+import os
+import pandas as pd
+
+# Download dataset
+path = kagglehub.dataset_download("fedesoriano/heart-failure-prediction")
+csv_path = os.path.join(path, "heart.csv")
+df = pd.read_csv(csv_path)
+df.head()
+
+
 ---
 
 ## 🔑 Key Insights Discovered
