@@ -63,7 +63,7 @@ path = kagglehub.dataset_download("fedesoriano/heart-failure-prediction")
 csv_path = os.path.join(path, "heart.csv")
 df = pd.read_csv(csv_path)
 df.head()
-
+```
 
 ---
 
